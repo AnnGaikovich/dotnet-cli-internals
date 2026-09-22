@@ -1,4 +1,16 @@
+
+
+
+<div align="center">
+
+![.NET Version](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-12.0%2F13.0-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Spectre.Console](https://img.shields.io/badge/Spectre.Console-Latest-C7254E?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
 # Lab 1: .NET CLI & Platform
+
+</div>
 
 A modern console application demonstrating the core principles of the .NET CLI, project structure, and third-party package integration. Created as part of the first laboratory work on the .NET platform.
 
