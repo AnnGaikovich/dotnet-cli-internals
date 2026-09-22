@@ -30,8 +30,8 @@ To run this project, you need to have the .NET SDK installed on your machine.
    
 2. **Run the application:**
 
-```bash
-dotnet run```
+   ```bash
+   dotnet run```
 
 3. **Publishing for Production:**
 -To build a release version of the application into a specific folder;
